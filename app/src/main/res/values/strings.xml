@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="next">next activity</string>
+    <string name="fifth">fifth activity</string>
+    <string name="first">1.</string>
+    <string name="second">2.</string>
+    <string name="third">3.</string>
+    <string name="fourth">4.</string>
+
+
+    <string name="start_service">START SERVICE</string>
+    <string name="stop_service">STOP SERVICE</string>
+
+
+    <string name="start_notification_service">NOTIFY ME</string>
+    <string name="stop_notification_service">STOP NOTIFY ME</string>
+    <string name="edit_text_notification">write notification...</string>
+
+    <string name="clear_snackbar">clear stats</string>
+    <string name="hide_snackbar">HIDE</string>
+
+    <string name="welcome_first_fragment_text_view">Welcome on first FRAGMENT</string>
+    <string name="welcome_second_fragment_text_view">Welcome on second FRAGMENT</string>
+    <string name="welcome_third_fragment_text_view">Welcome on third FRAGMENT</string>
+    <string name="activity_third_welcome">3.</string>
+    <string name="activity_fourth_welcome">4.</string>
+
+
+    <string name="first_fragment_item">first</string>
+    <string name="second_fragment_item">second</string>
+
+
+</resources>
